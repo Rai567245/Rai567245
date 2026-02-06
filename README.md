@@ -10,6 +10,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I do help others with their roadmaps
 
+## About Me
+I’m a passionate and curious developer who enjoys building things that are both functional and visually engaging. I’m currently focused on growing my Python GitHub repository, where I explore concepts, mini-projects, and learning exercises that sharpen my problem-solving skills. Alongside Python, I’m continuously learning UI/UX design, web development, and modern design tools, aiming to create user-centered experiences for both web and mobile applications.
+
+I have a strong interest in UI/UX design, especially in crafting intuitive interfaces that balance usability and aesthetics. I’m always open to collaborating on UI/UX projects, whether it’s wireframing, prototyping, or translating designs into code. Beyond coding and design, I enjoy helping others by sharing learning roadmaps and guidance, because I believe growth is better when it’s shared.
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ivanrenzmagalong) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rai.tech007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vanrey-magalong-6852892ba/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@d0kgo007) 
 
