@@ -25,9 +25,6 @@ I have a strong interest in UI/UX design, especially in crafting intuitive inter
 ![](https://nirzak-streak-stats.vercel.app/?user=Rai567245&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rai567245&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rai567245&theme=merko&no-frame=false&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rai567245&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
