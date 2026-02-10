@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I do help others with their roadmaps
 
-# About Me
+# About Me ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Rai567245)
 I’m a passionate and curious developer who enjoys building things that are both functional and visually engaging. I’m currently focused on growing my Python GitHub repository, where I explore concepts, mini-projects, and learning exercises that sharpen my problem-solving skills. Alongside Python, I’m continuously learning UI/UX design, web development, and modern design tools, aiming to create user-centered experiences for both web and mobile applications.
 
 I have a strong interest in UI/UX design, especially in crafting intuitive interfaces that balance usability and aesthetics. I’m always open to collaborating on UI/UX projects, whether it’s wireframing, prototyping, or translating designs into code. Beyond coding and design, I enjoy helping others by sharing learning roadmaps and guidance, because I believe growth is better when it’s shared.
@@ -47,6 +47,3 @@ I have a strong interest in UI/UX design, especially in crafting intuitive inter
 ![](https://github-readme-stats.vercel.app/api?username=Rai567245&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Rai567245&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rai567245&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-# 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rai567245&limit=5&theme=merko&combine_all_yearly_contributions=true)
