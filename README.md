@@ -1,19 +1,18 @@
 <h1 align="center">Aspiring UI/UX Designer, Web Developer, & Network Engineer</h1>
 
-Here are some ideas to get you started:
+- I’m currently building and refining my Python GitHub repository, where I work on learning projects and practical experiments that strengthen my problem-solving skills.
+- I’m actively learning UI/UX design, web development, and Python, with a strong focus on creating intuitive and user-centered experiences.
+- I’m open to collaborating on UI/UX design projects for both web and mobile applications, from wireframing and prototyping to translating designs into functional code.
+- Feel free to ask me about UI/UX design, usability principles, or front-end development.
+- You can reach me at: https://www.facebook.com/ivanrenzmagalong
+- Pronouns: He/Him
+- Fun fact: I enjoy helping others create clear learning roadmaps and guiding them through their tech journey.
 
-- 🔭 I’m currently working on my **Python Github-Repesitory** 
-- 🌱 I’m currently learning on **UI/X Design, Web-Dev, & Python**
-- 👯 I’m looking to collaborate on **UI/UX Design (for both Web & Mobile Applications)**
-- 💬 Ask me about **UI/UX Design**
-- 📫 How to reach me: https://www.facebook.com/ivanrenzmagalong
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I do help others with their roadmaps
+## About Me ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Rai567245)
 
-# About Me ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Rai567245)
-I’m a passionate and curious developer who enjoys building things that are both functional and visually engaging. I’m currently focused on growing my Python GitHub repository, where I explore concepts, mini-projects, and learning exercises that sharpen my problem-solving skills. Alongside Python, I’m continuously learning UI/UX design, web development, and modern design tools, aiming to create user-centered experiences for both web and mobile applications.
+<p align="justify">I’m a passionate and curious developer who enjoys building things that are both functional and visually engaging. I’m currently focused on growing my Python GitHub repository, where I explore concepts, mini-projects, and learning exercises that sharpen my problem-solving skills. Alongside Python, I’m continuously learning UI/UX design, web development, and modern design tools, aiming to create user-centered experiences for both web and mobile applications.</p>
 
-I have a strong interest in UI/UX design, especially in crafting intuitive interfaces that balance usability and aesthetics. I’m always open to collaborating on UI/UX projects, whether it’s wireframing, prototyping, or translating designs into code. Beyond coding and design, I enjoy helping others by sharing learning roadmaps and guidance, because I believe growth is better when it’s shared.
+<p align="justify">I have a strong interest in UI/UX design, especially in crafting intuitive interfaces that balance usability and aesthetics. I’m always open to collaborating on UI/UX projects, whether it’s wireframing, prototyping, or translating designs into code. Beyond coding and design, I enjoy helping others by sharing learning roadmaps and guidance, because I believe growth is better when it’s shared.</p>
 
 # 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ivanrenzmagalong) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rai.tech007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanrey-magalong-6852892ba/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@d0kgo007) 
