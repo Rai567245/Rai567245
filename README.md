@@ -1,4 +1,4 @@
-# Aspiring UI/UX Designer, Web Developer, & Network Engineer
+<h1 align="center">Aspiring UI/UX Designer, Web Developer, & Network Engineer</h1>
 
 Here are some ideas to get you started:
 
