@@ -8,7 +8,7 @@
 - Pronouns: He/Him
 - Fun fact: I enjoy helping others create clear learning roadmaps and guiding them through their tech journey.
 
-## About Me ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Rai567245)
+## About Me 
 
 <p align="justify">I’m a passionate and curious developer who enjoys building things that are both functional and visually engaging. I’m currently focused on growing my Python GitHub repository, where I explore concepts, mini-projects, and learning exercises that sharpen my problem-solving skills. Alongside Python, I’m continuously learning UI/UX design, web development, and modern design tools, aiming to create user-centered experiences for both web and mobile applications.</p>
 
@@ -16,13 +16,16 @@
 
 <div align="center">
 
-## 🌐 Socials
+<h2>Socials</h2>
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ivanrenzmagalong)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rai.tech007)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanrey-magalong-6852892ba/)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@d0kgo007)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Rai567245)
 
-## 💻 Tech Stack
+<h2>Tech Stack</h2>
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
@@ -46,7 +49,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black)
 
-## 📊 GitHub Stats
+<h3>GitHub Stats</h3> 
+
 ![](https://github-readme-stats.vercel.app/api?username=Rai567245&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Rai567245&theme=chartreuse-dark&hide_border=false)
