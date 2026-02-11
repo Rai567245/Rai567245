@@ -8,13 +8,13 @@
 - Pronouns: He/Him
 - Fun fact: I enjoy helping others create clear learning roadmaps and guiding them through their tech journey.
 
-## About Me 
+<div align="center">
+  
+<h3>About Me</h3>
 
 <p align="justify">I’m a passionate and curious developer who enjoys building things that are both functional and visually engaging. I’m currently focused on growing my Python GitHub repository, where I explore concepts, mini-projects, and learning exercises that sharpen my problem-solving skills. Alongside Python, I’m continuously learning UI/UX design, web development, and modern design tools, aiming to create user-centered experiences for both web and mobile applications.</p>
 
 <p align="justify">I have a strong interest in UI/UX design, especially in crafting intuitive interfaces that balance usability and aesthetics. I’m always open to collaborating on UI/UX projects, whether it’s wireframing, prototyping, or translating designs into code. Beyond coding and design, I enjoy helping others by sharing learning roadmaps and guidance, because I believe growth is better when it’s shared.</p>
-
-<div align="center">
 
 <h3>Socials</h3>
 
