@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<h2>Socials</h2>
+<h3>Socials</h3>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ivanrenzmagalong)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rai.tech007)
@@ -24,7 +24,7 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@d0kgo007)
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Rai567245)
 
-<h2>Tech Stack</h2>
+<h3>Tech Stack</h3>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
