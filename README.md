@@ -14,10 +14,15 @@
 
 <p align="justify">I have a strong interest in UI/UX design, especially in crafting intuitive interfaces that balance usability and aesthetics. I’m always open to collaborating on UI/UX projects, whether it’s wireframing, prototyping, or translating designs into code. Beyond coding and design, I enjoy helping others by sharing learning roadmaps and guidance, because I believe growth is better when it’s shared.</p>
 
-# 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ivanrenzmagalong) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rai.tech007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanrey-magalong-6852892ba/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@d0kgo007) 
+<div align="center">
 
-# 💻 Tech Stack
+## 🌐 Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ivanrenzmagalong)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rai.tech007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanrey-magalong-6852892ba/)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@d0kgo007)
+
+## 💻 Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
@@ -41,8 +46,11 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black)
 
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Rai567245&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Rai567245&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rai567245&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rai567245&theme=chartreuse-dark&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rai567245&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
