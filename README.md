@@ -49,12 +49,4 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black)
 
-<h3>GitHub Stats</h3> 
-
-![](https://github-readme-stats.vercel.app/api?username=Rai567245&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Rai567245&theme=chartreuse-dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rai567245&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 </div>
